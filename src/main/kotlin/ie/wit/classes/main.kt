@@ -41,7 +41,7 @@ fun employeeInfo(){
     if (employee1.equals(employee2))
         println("employee1 is equal to employee2.")
     else
-        println("employee1 is not equal to employee2.")
+        println("employee1 is not equal to Employee2.")
 
     if (employee1.equals(employee3))
         println("employee1 is equal to employee3.")
